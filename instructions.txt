@@ -1,0 +1,6 @@
+1.Download the WEB_VR_Therapy.html file
+2.Download all the iamages(jpegs/pngs)
+3.Download all the audio files(ogg)
+
+4. Open the HTML file and move around with the cursor or WSAD keys and select the scenes you want
+
