@@ -31,3 +31,20 @@ The “Spiritual”
 
 
 # Here are a few images of the headset 
+      
+ 
+
+![](ss/intro_ss.png)
+
+  This is the page you are greeted with when you enter the website.
+  
+  ![](ss/mountain_ss.png)
+     This is the VR Webpage represting mountains.
+     
+   
+   ![](ss/night_ss.png)
+      This is a scene where you can sit and relax and listen to the waves that come and go by. The soothing sounds of the waves help you feel better.
+      
+  ![](ss/space_ss.png)
+    This scene is one where you definitely feel as if you are in space. Makes you feel lively and fresh in a never before experienced scene .
+
