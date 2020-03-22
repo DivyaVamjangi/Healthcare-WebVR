@@ -28,3 +28,4 @@ The Physical
 The “Spiritual”
 
 • It’s true that music affects many different parts of your brain; but there’s one part in particular that’s directly related to how pleasurable a song is for the listener. Slow tunes alter brain wave patterns, which can induce a meditative, restorative state.
+
